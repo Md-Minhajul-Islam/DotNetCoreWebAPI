@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L+LSKG67ZW0=",
+  "success": true,
+  "projectFilePath": "E:\\github\\DotNetCoreWebApi\\ProductManagementWithDI\\ProductManagementWithDI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.4\\microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
