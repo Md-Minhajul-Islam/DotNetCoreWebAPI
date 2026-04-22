@@ -1,0 +1,63 @@
+## ==============================
+## Build output
+## ==============================
+bin/
+obj/
+
+## ==============================
+## User-specific files (Visual Studio / Rider)
+## ==============================
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## ==============================
+## Secrets / sensitive config
+## ==============================
+appsettings.Development.json
+appsettings.*.json
+secrets.json
+
+## Or if you want to allow appsettings but not secrets:
+# appsettings.Development.json (optional ignore depending on team setup)
+
+## ==============================
+## Logs (VERY important for your logging project)
+## ==============================
+logs/
+*.log
+
+## ==============================
+## .NET build artifacts
+## ==============================
+*.dll
+*.exe
+*.pdb
+*.cache
+*.dll.config
+
+## ==============================
+## Publish output
+## ==============================
+publish/
+*.publish.xml
+
+## ==============================
+## EF Core / migrations (optional depending on team)
+## ==============================
+# Migrations/   (ONLY if you regenerate migrations elsewhere)
+# *.db
+
+## ==============================
+## OS files
+## ==============================
+.DS_Store
+Thumbs.db
+
+## ==============================
+## Docker (if used later)
+## ==============================
+docker-compose.override.yml
